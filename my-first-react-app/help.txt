@@ -10,3 +10,8 @@ git push -u origin main
 git remote add origin https://github.com/mcwong644/React-JSMastery.git
 git branch -M main
 git push -u origin main
+
+===== from folder D:\xampp\htdocs\React-JSMastery-2hrs ====
+git add my-first-react-app  
+git commit -m "first commit"
+git push -u origin main   
